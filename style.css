@@ -1,0 +1,12 @@
+
+body {
+    padding: 1em;
+}
+.jumbotron {
+    background-image: url("bellyfunk.jpg");
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    text-align: left;
+    float: right;
+}
